@@ -120,7 +120,7 @@ Repository เป็นพื้นที่สำหรับเก็บ proje
 
 (2) การสร้าง repository โดยการคลิกที่ปุ่ม New สีเขียว 
 
-  <p align="center"> <img  src="Pictures/Week09-Pic07.png" alt=""  style="width:640px;"></p>
+  <p align="center"> <img  src="Pictures/Week09-Pic07.png" alt=""  style="width:720px;"></p>
 <p align="center"><br> <b> รูปที่ 1.7 </b> การสร้าง repository โดยการคลิกที่ปุ่ม New
 
 (3) การสร้าง repository โดยลิงค์ https://github.com/new
