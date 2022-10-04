@@ -149,7 +149,7 @@ Repository เป็นพื้นที่สำหรับเก็บ proje
 
 
  
-
+<p align="center"> <img  src="Pictures/Week09-Pic09.png" alt=""  ></p>
 <p align="center"><br> <b> รูปที่ 1.9 </b>repository ที่ได้จากการสร้างในข้อ 1.3</p>
 
 ผลการทดลอง
