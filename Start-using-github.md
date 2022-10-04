@@ -46,15 +46,17 @@ __ผลการทดลอง__
  <p align="center">
 <img  src="Pictures/Week09-Pic03.png" alt="project ใหม่"  >
 </p>
-<p align="center"><br> <b> <p align="center"><br> <b> รูปที่ 1.3 </b>ผลการทดลองพิมพ์คำสั่ง git</p>
+<p align="center"><br> <b>  รูปที่ 1.3 </b> ผลการทดลองพิมพ์คำสั่ง git</p>
 
 __ผลการทดลอง__
-
+--- 
 ให้นักศึกษา  capture  หน้าจอของตนเองมาใส่ และอธิบายสั้นๆ ถึงสิ่งที่เกิดขึ้น
+
+--- 
 
 1.2.5 บอกให้ Git รู้จักชื่อของเรา  โดยพิมพ์คำสั่งต่อไปนี้  
 
-```
+``` sh
 $ git config --global user.name “USER NAME”
 ```
 
@@ -62,18 +64,18 @@ $ git config --global user.name “USER NAME”
 ในกรณีที่เราต้องการทราบชื่อผู้ใช้ปัจจุบัน สามารถสั่งให้ Git รายงานออกมาด้วยการพิมพ์คำสั่งต่อไปนี้
 
 
-```
+``` sh
 $ git config user.name
 ``` 
 
-<p align="center"><br> <b> <p align="center"><br> <b> รูปที่ 1.4 </b>git config --global user.name
+<p align="center"><br> <b>  รูปที่ 1.4 </b>git config --global user.name
 
 ผลการทดลอง
 ให้นักศึกษา  capture  หน้าจอของตนเองมาใส่ และอธิบายสั้นๆ ถึงสิ่งที่เกิดขึ้น
 
 1.2.6 บอกให้ Git รู้จัก email ของเรา  โดยพิมพ์คำสั่งต่อไปนี้
 
-```
+``` sh
 $ git config --global user.email “USER EMAIL ADDRESS”
 ```
 
