@@ -14,7 +14,7 @@
 การสร้างบัญชีผู้ใช้บน Github ให้ไปที่ https://github.com/join จากนั้น ให้กรอกรายละเอียด ซึ่งชื่อผู้ใช้ (User name) จะถูกนำไปใช้ในหลายๆ ที่ ดังนั้นควรเป็นชื่อที่จำง่ายและพิมพ์ได้สะดวก มิฉะนั้นจะเสียเวลาในการทำงาน   
 
 <p align="center">
-<img  src="Pictures/Week09-Pic01.png" alt="project ใหม่" style="width:600px;" >
+<img  src="Pictures/Week09-Pic01.png" alt="project ใหม่"  >
 </p>
 <p align="center"><br> <b> รูปที่ 1.1</b> การสร้างบัญชี Github </p>
 
@@ -25,6 +25,9 @@
 1.2.2 ติดตั้งโปรแกรม Git ตามคำแนะนำของโปรแกรมติดตั้ง
 1.2.3 เปิดโปรแกรม Git bash จะได้หน้าต่าง terminal ที่ทำงานใน text mode
  
+<p align="center">
+<img  src="Pictures/Week09-Pic02.png" alt="project ใหม่"  >
+</p>
 <p align="center"><br> <b> รูปที่ 1.2</b> หน้าต่าง terminal ของ git bash </p>
 
 __ผลการทดลอง__
