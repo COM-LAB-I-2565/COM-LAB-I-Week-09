@@ -43,16 +43,25 @@ __ผลการทดลอง__
 
 ถ้า terminal ตอบกลับมาว่าไม่รู้จักคำสั่ง git แสดงว่าการติดตั้งยังไม่สมบูรณ์ ให้กลับไปตรวจสอบขั้นตอน 1.2.2 ให้ติดตั้งเรียบร้อย
  
- <p align="center">
-<img  src="Pictures/Week09-Pic03.png" alt="project ใหม่"  >
+<p align="center">
+<img  src="Pictures/Week09-Pic03.png" alt=""  >
 </p>
 <p align="center"><br> <b>  รูปที่ 1.3 </b> ผลการทดลองพิมพ์คำสั่ง git</p>
 
-__ผลการทดลอง__
---- 
-ให้นักศึกษา  capture  หน้าจอของตนเองมาใส่ และอธิบายสั้นๆ ถึงสิ่งที่เกิดขึ้น
+---
 
---- 
+__ผลการทดลอง__
+
+ให้นักศึกษา  capture  หน้าจอของตนเองมาใส่่ตรงนี้ และอธิบายสั้นๆ ถึงสิ่งที่เกิดขึ้น 
+
+
+_ตัวอย่าง_ 
+
+เมื่อทำการติดตั้งโปรแกรม git แล้วรันคำสั่ง  `git` พบว่าสามารถใช้งานได้ โดยหน้าจอจะมีข้อความดังรูปต่อไปนี้
+ <p align="center"> <img  src="Pictures/Week09-Pic03.png" alt=""  > </p>
+
+----
+
 
 1.2.5 บอกให้ Git รู้จักชื่อของเรา  โดยพิมพ์คำสั่งต่อไปนี้  
 
@@ -67,6 +76,8 @@ $ git config --global user.name “USER NAME”
 ``` sh
 $ git config user.name
 ``` 
+<p align="center"> <img  src="Pictures/Week09-Pic04.png" alt=""  >
+</p>
 
 <p align="center"><br> <b>  รูปที่ 1.4 </b>git config --global user.name
 
@@ -89,8 +100,9 @@ $ git config user.email
 เมื่อทำในขั้นตอน 1.2.5 และ 1.2.6 เรียบร้อยแล้ว การทำงานใดๆ บน Github ก็จะปรากฏชื่อและ Email ของเรากำกับไว้เสมอ 
 
  
+<p align="center"> <img  src="Pictures/Week09-Pic05.png" alt=""  ></p>
 
-<p align="center"><br> <b> <p align="center"><br> <b> รูปที่ 1.5</b> git config --global user.email
+<p align="center"><br> <b>  รูปที่ 1.5</b> git config --global user.email
 
 ผลการทดลอง
 ให้นักศึกษา  capture  หน้าจอของตนเองมาใส่ และอธิบายสั้นๆ ถึงสิ่งที่เกิดขึ้น
